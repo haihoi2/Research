@@ -1,0 +1,557 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.16)  1 JUN 2014 00:04
+entering extended mode
+**RankingHaiMay25.tex
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\Rankin
+gHaiMay25.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+leqno.clo
+File: leqno.clo 1998/08/17 v1.1c Standard LaTeX option (left equation numbers)
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\00mik
+tex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\pdfte
+x-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\generic\obe
+rdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\generic\obe
+rdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\annal-
+latex.sty
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\c
+lasses\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\fancy
+hdr\fancyhdr.sty
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+))
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+\c@theorem=\count100
+\c@lemma=\count101
+\c@corollary=\count102
+\c@definition=\count103
+\c@remark=\count104
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\Rankin
+gHaiMay25.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\context\bas
+e\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen115
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks28
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 54.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 54.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 54.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+{F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/pdftex/config/p
+dftex.map}] [2] [3] [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6]
+Overfull \hbox (4.37512pt too wide) in paragraph at lines 242--244
+\OT1/cmr/m/n/10 From (3.1[]), the unique ex-is-tence of $\OML/cmm/m/it/10 R[]$ 
+\OT1/cmr/m/n/10 in-fers the unique ex-is-tences of $\OML/cmm/m/it/10 R[]; [] ; 
+R[]$\OT1/cmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--256
+
+ []
+
+[7] [8] [9] [10]
+
+LaTeX Warning: Reference `hindex' on page 11 undefined on input line 400.
+
+[11]
+
+LaTeX Warning: Reference `IF' on page 12 undefined on input line 403.
+
+<D1t20cNPC.png, id=61, 360.59718pt x 252.945pt>
+File: D1t20cNPC.png Graphic file (type png)
+ <use D1t20cNPC.png>
+Package pdftex.def Info: D1t20cNPC.png used on input line 448.
+(pdftex.def)             Requested size: 153.64383pt x 107.7723pt.
+
+<D1t20cSD3R.png, id=62, 360.59718pt x 252.945pt>
+File: D1t20cSD3R.png Graphic file (type png)
+ <use D1t20cSD3R.png>
+Package pdftex.def Info: D1t20cSD3R.png used on input line 449.
+(pdftex.def)             Requested size: 153.64383pt x 107.7723pt.
+
+<D2t20cNPC.png, id=63, 356.0803pt x 245.41687pt>
+File: D2t20cNPC.png Graphic file (type png)
+ <use D2t20cNPC.png>
+Package pdftex.def Info: D2t20cNPC.png used on input line 450.
+(pdftex.def)             Requested size: 153.64383pt x 105.89417pt.
+
+<D2t20cSD3R.png, id=64, 356.0803pt x 245.41687pt>
+File: D2t20cSD3R.png Graphic file (type png)
+ <use D2t20cSD3R.png>
+Package pdftex.def Info: D2t20cSD3R.png used on input line 451.
+(pdftex.def)             Requested size: 153.64383pt x 105.89417pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+[13 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D1
+t20cNPC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJ
+ournal/D1t20cSD3R.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhV
+u/HungaryJournal/D2t20cNPC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropb
+ox/LeAnhVu/HungaryJournal/D2t20cSD3R.png>]
+<Top5cInc.png, id=72, 657.2053pt x 219.06844pt>
+File: Top5cInc.png Graphic file (type png)
+ <use Top5cInc.png>
+Package pdftex.def Info: Top5cInc.png used on input line 476.
+(pdftex.def)             Requested size: 307.28766pt x 102.43068pt.
+
+<delta_rho.png, id=73, 329.73187pt x 57.96657pt>
+File: delta_rho.png Graphic file (type png)
+ <use delta_rho.png>
+Package pdftex.def Info: delta_rho.png used on input line 484.
+(pdftex.def)             Requested size: 170.71652pt x 30.01276pt.
+
+<D1t20aINC.png, id=74, 353.82187pt x 295.1025pt>
+File: D1t20aINC.png Graphic file (type png)
+ <use D1t20aINC.png>
+Package pdftex.def Info: D1t20aINC.png used on input line 500.
+(pdftex.def)             Requested size: 153.64383pt x 128.1479pt.
+
+<D1t20aDEC.png, id=75, 353.82187pt x 295.1025pt>
+File: D1t20aDEC.png Graphic file (type png)
+ <use D1t20aDEC.png>
+Package pdftex.def Info: D1t20aDEC.png used on input line 501.
+(pdftex.def)             Requested size: 153.64383pt x 128.1479pt.
+
+<D2t20aINC.png, id=76, 349.305pt x 280.04625pt>
+File: D2t20aINC.png Graphic file (type png)
+ <use D2t20aINC.png>
+Package pdftex.def Info: D2t20aINC.png used on input line 502.
+(pdftex.def)             Requested size: 153.64383pt x 123.18225pt.
+
+<D2t20aDEC.png, id=77, 349.305pt x 280.04625pt>
+File: D2t20aDEC.png Graphic file (type png)
+ <use D2t20aDEC.png>
+Package pdftex.def Info: D2t20aDEC.png used on input line 503.
+(pdftex.def)             Requested size: 153.64383pt x 123.18225pt.
+
+<T5adec.png, id=78, 577.40718pt x 97.86563pt>
+File: T5adec.png Graphic file (type png)
+ <use T5adec.png>
+Package pdftex.def Info: T5adec.png used on input line 511.
+(pdftex.def)             Requested size: 307.28766pt x 52.08505pt.
+
+<T5ainc.png, id=79, 568.37344pt x 97.86563pt>
+File: T5ainc.png Graphic file (type png)
+ <use T5ainc.png>
+Package pdftex.def Info: T5ainc.png used on input line 519.
+(pdftex.def)             Requested size: 307.28766pt x 52.91234pt.
+ [14 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/T
+op5cInc.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJ
+ournal/delta_rho.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D
+1t20aINC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/Hungary
+Journal/D1t20aDEC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhV
+u/HungaryJournal/D2t20aINC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropb
+ox/LeAnhVu/HungaryJournal/D2t20aDEC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gm
+ail/Dropbox/LeAnhVu/HungaryJournal/T5adec.png>] [16 <F:/vohoanghai2/Dropbox-voh
+oanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/T5ainc.png>]
+<DiffRank.png, id=90, 447.92343pt x 86.57344pt>
+File: DiffRank.png Graphic file (type png)
+ <use DiffRank.png>
+Package pdftex.def Info: DiffRank.png used on input line 566.
+(pdftex.def)             Requested size: 324.36035pt x 62.69345pt.
+
+<Dct20NPCc.png, id=91, 358.33875pt x 244.66406pt>
+File: Dct20NPCc.png Graphic file (type png)
+ <use Dct20NPCc.png>
+Package pdftex.def Info: Dct20NPCc.png used on input line 574.
+(pdftex.def)             Requested size: 153.64383pt x 104.90483pt.
+
+<DCt20NCCc.png, id=92, 358.33875pt x 244.66406pt>
+File: DCt20NCCc.png Graphic file (type png)
+ <use DCt20NCCc.png>
+Package pdftex.def Info: DCt20NCCc.png used on input line 575.
+(pdftex.def)             Requested size: 153.64383pt x 104.90483pt.
+
+<DCt40SC4Rc.png, id=93, 597.73312pt x 244.66406pt>
+File: DCt40SC4Rc.png Graphic file (type png)
+ <use DCt40SC4Rc.png>
+Package pdftex.def Info: DCt40SC4Rc.png used on input line 576.
+(pdftex.def)             Requested size: 307.28766pt x 125.78127pt.
+
+<Top10Conf.png, id=94, 721.94719pt x 170.13562pt>
+File: Top10Conf.png Graphic file (type png)
+ <use Top10Conf.png>
+Package pdftex.def Info: Top10Conf.png used on input line 591.
+(pdftex.def)             Requested size: 324.36035pt x 76.4383pt.
+ [17 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D
+iffRank.png>] [18 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/Hun
+garyJournal/Dct20NPCc.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/Le
+AnhVu/HungaryJournal/DCt20NCCc.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/D
+ropbox/LeAnhVu/HungaryJournal/DCt40SC4Rc.png> <F:/vohoanghai2/Dropbox-vohoangha
+i2-gmail/Dropbox/LeAnhVu/HungaryJournal/Top10Conf.png>]
+<DCt20NPCa.png, id=101, 386.19281pt x 262.73157pt>
+File: DCt20NPCa.png Graphic file (type png)
+ <use DCt20NPCa.png>
+Package pdftex.def Info: DCt20NPCa.png used on input line 615.
+(pdftex.def)             Requested size: 153.64383pt x 104.5255pt.
+
+<DCt20NCCa.png, id=102, 386.19281pt x 262.73157pt>
+File: DCt20NCCa.png Graphic file (type png)
+ <use DCt20NCCa.png>
+Package pdftex.def Info: DCt20NCCa.png used on input line 616.
+(pdftex.def)             Requested size: 153.64383pt x 104.5255pt.
+
+<DCt20Hindexa.png, id=103, 386.19281pt x 262.73157pt>
+File: DCt20Hindexa.png Graphic file (type png)
+ <use DCt20Hindexa.png>
+Package pdftex.def Info: DCt20Hindexa.png used on input line 617.
+(pdftex.def)             Requested size: 153.64383pt x 104.5255pt.
+
+<DCt20SC4Ra.png, id=104, 386.19281pt x 262.73157pt>
+File: DCt20SC4Ra.png Graphic file (type png)
+ <use DCt20SC4Ra.png>
+Package pdftex.def Info: DCt20SC4Ra.png used on input line 618.
+(pdftex.def)             Requested size: 153.64383pt x 104.5255pt.
+
+<DCt20SC4Ra-f.png, id=105, 445.665pt x 320.69812pt>
+File: DCt20SC4Ra-f.png Graphic file (type png)
+ <use DCt20SC4Ra-f.png>
+Package pdftex.def Info: DCt20SC4Ra-f.png used on input line 625.
+(pdftex.def)             Requested size: 324.36035pt x 233.40791pt.
+
+Underfull \vbox (badness 4595) has occurred while \output is active []
+
+ [19 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D
+Ct20NPCa.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/Hungary
+Journal/DCt20NCCa.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhV
+u/HungaryJournal/DCt20Hindexa.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dr
+opbox/LeAnhVu/HungaryJournal/DCt20SC4Ra.png>] [20 <F:/vohoanghai2/Dropbox-vohoa
+nghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/DCt20SC4Ra-f.png>]
+Overfull \hbox (4.32562pt too wide) in paragraph at lines 635--639
+[]\OT1/cmr/m/it/10 Named en-ti-ties: \OT1/cmr/m/n/10 In Nat-u-ral Lan-guage Pro
+-cess-ing (NLP) com-mu-ni-ties, named
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ¡ in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no º in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ³ in font cmbx10!
+
+Underfull \hbox (badness 1142) in paragraph at lines 693--696
+[]\OT1/cmr/bx/n/10 Eduardo Snchez-Burillo, Jordi Duch, Jess Gmez-Gardenes,
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+[22]
+Underfull \hbox (badness 1297) in paragraph at lines 723--727
+[]\OT1/cmr/bx/n/10 Michael Collins. \OT1/cmr/m/n/10 Rank-ing al-go-rithms for n
+amed-entity ex-trac-tion:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--748
+[]\OT1/cmr/bx/n/10 Microsoft Cor-po-ra-tion. \OT1/cmr/m/n/10 Mi-crosoft Aca-dem
+ic Search.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--796
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 797--802
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 809--814
+
+ []
+
+[24]
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\Rankin
+gHaiMay25.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2524 strings out of 493921
+ 33876 string characters out of 3133992
+ 88562 words of memory out of 3000000
+ 5757 multiletter control sequences out of 15000+200000
+ 15485 words of font info for 64 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 34i,19n,45p,812b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+<F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/
+svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><F:/vohoanghai2/Dropbox
+-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmbx7.p
+fb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/
+public/amsfonts/cm/cmbx8.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/
+svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><F:/vohoanghai2/Dropbox-
+vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/
+public/amsfonts/cm/cmitt10.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbo
+x/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><F:/vohoanghai2/Dropb
+ox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmmi5
+.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbo
+x/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><F:/vohoanghai2/Dropbo
+x-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1
+/public/amsfonts/cm/cmr5.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/
+svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><F:/vohoanghai2/Dropbox-v
+ohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmo
+no/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><F:/vohoanghai2/Dropbox-voh
+oanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
+F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmo
+no/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><F:/vohoanghai2/Dropbox-voho
+anghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><F
+:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/publi
+c/amsfonts/cm/cmsy9.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmon
+o/MIKTEX/fonts/type1/public/amsfonts/cm/cmti10.pfb><F:/vohoanghai2/Dropbox-voho
+anghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmti8.pfb><F
+:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/publi
+c/amsfonts/cm/cmtt10.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmo
+no/MIKTEX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><F:/vohoanghai2/Dropbox-voho
+anghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/symbols/msam10.
+pfb>
+Output written on RankingHaiMay25.pdf (24 pages, 696178 bytes).
+PDF statistics:
+ 211 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+

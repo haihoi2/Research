@@ -1,0 +1,763 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.16)  23 MAY 2014 21:43
+entering extended mode
+**RankingHaiMay20.tex
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\Rankin
+gHaiMay20.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+leqno.clo
+File: leqno.clo 1998/08/17 v1.1c Standard LaTeX option (left equation numbers)
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\graph
+ics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\00mik
+tex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\pdfte
+x-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\generic\obe
+rdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\generic\obe
+rdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\annal-
+latex.sty
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen105
+))
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\m
+ath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\ams\c
+lasses\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\fancy
+hdr\fancyhdr.sty
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+))
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+\c@theorem=\count100
+\c@lemma=\count101
+\c@corollary=\count102
+\c@definition=\count103
+\c@remark=\count104
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\Rankin
+gHaiMay20.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\context\bas
+e\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen115
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks28
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\amsfo
+nts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 55.
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [1
+
+{F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/pdftex/config/p
+dftex.map}]
+
+LaTeX Warning: Reference `Sect:Backgrounds' on page 2 undefined on input line 1
+21.
+
+
+LaTeX Warning: Reference `Sect:N-star' on page 2 undefined on input line 122.
+
+
+LaTeX Warning: Reference `Sect:Ranking' on page 2 undefined on input line 123.
+
+
+LaTeX Warning: Reference `Sect:Experiments' on page 2 undefined on input line 1
+24.
+
+
+LaTeX Warning: Reference `Sect:Related' on page 2 undefined on input line 125.
+
+
+LaTeX Warning: Reference `Sect:Conclusion' on page 2 undefined on input line 12
+5.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (2.82416pt too wide) in paragraph at lines 163--165
+[]\OT1/cmr/m/n/10 Let $\OML/cmm/m/it/10 a[]; a[]$ \OT1/cmr/m/n/10 be ob-jects i
+n $\OMS/cmsy/m/n/10 A[]\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 A[]$ \OT1/cmr/m/n/10
+ re-spec-tively. Sup-pose $\OMS/cmsy/m/n/10 C[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
+0 a[]; a[]\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 []![]:$
+ []
+
+
+LaTeX Warning: Citation `pagerank98' on page 3 undefined on input line 177.
+
+[3]
+
+LaTeX Warning: Reference `eq02' on page 4 undefined on input line 189.
+
+
+LaTeX Warning: Reference `eq01' on page 4 undefined on input line 192.
+
+
+LaTeX Warning: Citation `pagerank98' on page 4 undefined on input line 192.
+
+
+LaTeX Warning: Reference `eq02' on page 4 undefined on input line 192.
+
+
+LaTeX Warning: Reference `eq02' on page 4 undefined on input line 192.
+
+
+LaTeX Warning: Reference `eq02' on page 4 undefined on input line 192.
+
+[4]
+
+LaTeX Warning: Citation `Keener1993' on page 5 undefined on input line 232.
+
+
+LaTeX Warning: Citation `Kien09' on page 5 undefined on input line 232.
+
+
+LaTeX Warning: Reference `eq03' on page 5 undefined on input line 234.
+
+
+Overfull \hbox (2.45836pt too wide) in paragraph at lines 233--235
+\OT1/cmr/m/n/10 From ([]), the unique ex-is-tence of $\OML/cmm/m/it/10 R[]$ \OT
+1/cmr/m/n/10 in-fers the unique ex-is-tences of $\OML/cmm/m/it/10 R[]; [] ; R[]
+$\OT1/cmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--247
+
+ []
+
+[5] [6]
+
+LaTeX Warning: Reference `eq06' on page 7 undefined on input line 275.
+
+
+LaTeX Warning: Reference `eq09' on page 7 undefined on input line 290.
+
+
+Overfull \hbox (22.40155pt too wide) detected at line 301
+\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 ) = \OML
+/cmm/m/it/10 [] [] R[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 l[]\OT1/cmr/m/n/10 ) +
+ \OML/cmm/m/it/10 [] [] []R[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a[]\OT1/cmr/m/n
+/10 ) + \OML/cmm/m/it/10 [][]R[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 c[]\OT1/cmr/
+m/n/10 ) + \OML/cmm/m/it/10 []I[];
+ []
+
+
+LaTeX Warning: Reference `eq11' on page 7 undefined on input line 307.
+
+
+LaTeX Warning: Reference `eq12' on page 7 undefined on input line 307.
+
+[7]
+
+LaTeX Warning: Reference `eq06' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Reference `eq08' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Reference `eq09' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Reference `eq11' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Reference `eq12' on page 8 undefined on input line 318.
+
+
+LaTeX Warning: Reference `eq07' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Reference `eq08' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Reference `eq10' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Reference `eq13' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Reference `eq14' on page 8 undefined on input line 319.
+
+
+LaTeX Warning: Citation `MichaelLey06' on page 8 undefined on input line 330.
+
+
+LaTeX Warning: Citation `MichaelLey09' on page 8 undefined on input line 330.
+
+[8]
+
+LaTeX Warning: Reference `eq07' on page 9 undefined on input line 352.
+
+
+LaTeX Warning: Reference `eq08' on page 9 undefined on input line 352.
+
+
+LaTeX Warning: Reference `eq10' on page 9 undefined on input line 352.
+
+
+LaTeX Warning: Reference `eq13' on page 9 undefined on input line 352.
+
+
+LaTeX Warning: Reference `eq14' on page 9 undefined on input line 352.
+
+
+LaTeX Warning: Reference `eq10' on page 9 undefined on input line 353.
+
+
+LaTeX Warning: Reference `eq13' on page 9 undefined on input line 353.
+
+
+LaTeX Warning: Reference `eq14' on page 9 undefined on input line 353.
+
+
+LaTeX Warning: Reference `hindex' on page 9 undefined on input line 362.
+
+
+Overfull \hbox (14.39265pt too wide) in paragraph at lines 362--364
+\OT1/cmr/m/n/10 au-thors and con-fer-ences. In H-index model, for each au-thor 
+$\OML/cmm/m/it/10 a \OMS/cmsy/m/n/10 2 A$ $\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ) ::=
+ []
+
+
+Overfull \hbox (92.69803pt too wide) in paragraph at lines 362--364
+\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr
+/m/n/10 )?????????\OMS/cmsy/m/n/10 j$ \OT1/cmr/m/n/10 and for each con-fer-ence
+ $\OML/cmm/m/it/10 c \OMS/cmsy/m/n/10 2 C$ $\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10
+ (\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 ) ::= \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 P[
+]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 )???????????\OMS/cmsy/m/n/1
+0 j\OML/cmm/m/it/10 anhVugiupemnhe$\OT1/cmr/m/n/10 . 
+ []
+
+
+Overfull \hbox (11.65425pt too wide) in paragraph at lines 366--368
+\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ) ::= \O
+MS/cmsy/m/n/10 j\OML/cmm/m/it/10 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a\OT1/cmr/m
+/n/10 )?????????\OMS/cmsy/m/n/10 j$ \OT1/cmr/m/n/10 and for each con-fer-ence $
+\OML/cmm/m/it/10 c \OMS/cmsy/m/n/10 2 C$ $\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 ) ::=
+ []
+
+[9]
+
+LaTeX Warning: Reference `eq07' on page 10 undefined on input line 369.
+
+
+LaTeX Warning: Reference `eq08' on page 10 undefined on input line 369.
+
+
+LaTeX Warning: Reference `eq10' on page 10 undefined on input line 369.
+
+
+LaTeX Warning: Reference `eq13' on page 10 undefined on input line 369.
+
+
+LaTeX Warning: Reference `eq14' on page 10 undefined on input line 369.
+
+
+LaTeX Warning: Reference `eq14' on page 10 undefined on input line 370.
+
+<D2t20cinc.png, id=54, 374.90062pt x 217.5628pt>
+File: D2t20cinc.png Graphic file (type png)
+ <use D2t20cinc.png>
+Package pdftex.def Info: D2t20cinc.png used on input line 406.
+(pdftex.def)             Requested size: 153.64383pt x 89.16481pt.
+
+<D2t20cdec.png, id=56, 374.90062pt x 217.5628pt>
+File: D2t20cdec.png Graphic file (type png)
+ <use D2t20cdec.png>
+Package pdftex.def Info: D2t20cdec.png used on input line 407.
+(pdftex.def)             Requested size: 153.64383pt x 89.16481pt.
+
+<D2t20ainc.png, id=57, 349.305pt x 280.04625pt>
+File: D2t20ainc.png Graphic file (type png)
+ <use D2t20ainc.png>
+Package pdftex.def Info: D2t20ainc.png used on input line 414.
+(pdftex.def)             Requested size: 153.64383pt x 123.18225pt.
+
+<D2t20adec.png, id=58, 349.305pt x 280.04625pt>
+File: D2t20adec.png Graphic file (type png)
+ <use D2t20adec.png>
+Package pdftex.def Info: D2t20adec.png used on input line 415.
+(pdftex.def)             Requested size: 153.64383pt x 123.18225pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 438.
+
+
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\svmono\MIKTEX\tex\latex\base\
+omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 438.
+
+
+LaTeX Warning: Reference `Fig:Top20IncDecConference' on page 10 undefined on in
+put line 438.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+[11 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D2
+t20cinc.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJ
+ournal/D2t20cdec.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu
+/HungaryJournal/D2t20ainc.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbo
+x/LeAnhVu/HungaryJournal/D2t20adec.png>]
+
+LaTeX Warning: Reference `fig:deltaresult' on page 12 undefined on input line 4
+44.
+
+
+LaTeX Warning: Reference `Fig:Top20IncDecConference' on page 12 undefined on in
+put line 444.
+
+
+LaTeX Warning: Reference `Fig:Top20IncDecAuthor' on page 12 undefined on input 
+line 444.
+
+
+LaTeX Warning: Reference `tab:deltaresult' on page 12 undefined on input line 4
+44.
+
+
+LaTeX Warning: Reference `Fig:Top20Author' on page 12 undefined on input line 4
+45.
+
+
+LaTeX Warning: Reference `Fig:Top20IncDecAuthor' on page 12 undefined on input 
+line 447.
+
+<D1t20aNPC.png, id=67, 351.56343pt x 349.305pt>
+File: D1t20aNPC.png Graphic file (type png)
+ <use D1t20aNPC.png>
+Package pdftex.def Info: D1t20aNPC.png used on input line 454.
+(pdftex.def)             Requested size: 153.64383pt x 152.65532pt.
+
+<D1t20aSD4R.png, id=68, 351.56343pt x 349.305pt>
+File: D1t20aSD4R.png Graphic file (type png)
+ <use D1t20aSD4R.png>
+Package pdftex.def Info: D1t20aSD4R.png used on input line 455.
+(pdftex.def)             Requested size: 153.64383pt x 152.65532pt.
+
+<D2t20aNPC.png, id=69, 349.305pt x 280.04625pt>
+File: D2t20aNPC.png Graphic file (type png)
+ <use D2t20aNPC.png>
+Package pdftex.def Info: D2t20aNPC.png used on input line 456.
+(pdftex.def)             Requested size: 153.64383pt x 123.18225pt.
+
+<D2t20aSD4R.png, id=70, 349.305pt x 280.04625pt>
+File: D2t20aSD4R.png Graphic file (type png)
+ <use D2t20aSD4R.png>
+Package pdftex.def Info: D2t20aSD4R.png used on input line 457.
+(pdftex.def)             Requested size: 153.64383pt x 123.18225pt.
+
+
+LaTeX Warning: Reference `Fig:Top20ConferenceD3' on page 12 undefined on input 
+line 466.
+
+
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+ [12]
+[13 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D1
+t20aNPC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJ
+ournal/D1t20aSD4R.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhV
+u/HungaryJournal/D2t20aNPC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropb
+ox/LeAnhVu/HungaryJournal/D2t20aSD4R.png>]
+
+LaTeX Warning: Reference `Fig:Top20AuthorD3' on page 14 undefined on input line
+ 468.
+
+<D3t20cNPC.png, id=78, 374.14781pt x 285.31593pt>
+File: D3t20cNPC.png Graphic file (type png)
+ <use D3t20cNPC.png>
+Package pdftex.def Info: D3t20cNPC.png used on input line 476.
+(pdftex.def)             Requested size: 153.64383pt x 117.16313pt.
+
+<D3t20cSD4R.png, id=79, 374.14781pt x 285.31593pt>
+File: D3t20cSD4R.png Graphic file (type png)
+ <use D3t20cSD4R.png>
+Package pdftex.def Info: D3t20cSD4R.png used on input line 477.
+(pdftex.def)             Requested size: 153.64383pt x 117.16313pt.
+
+<D3t20cSC4R.png, id=80, 374.14781pt x 285.31593pt>
+File: D3t20cSC4R.png Graphic file (type png)
+ <use D3t20cSC4R.png>
+Package pdftex.def Info: D3t20cSC4R.png used on input line 479.
+(pdftex.def)             Requested size: 153.64383pt x 117.16313pt.
+
+<D3t20cHindex.png, id=81, 383.93437pt x 285.31593pt>
+File: D3t20cHindex.png Graphic file (type png)
+ <use D3t20cHindex.png>
+Package pdftex.def Info: D3t20cHindex.png used on input line 480.
+(pdftex.def)             Requested size: 153.64383pt x 114.18094pt.
+
+<D3t20aNPCh.png, id=82, 335.00156pt x 270.25969pt>
+File: D3t20aNPCh.png Graphic file (type png)
+ <use D3t20aNPCh.png>
+Package pdftex.def Info: D3t20aNPCh.png used on input line 487.
+(pdftex.def)             Requested size: 153.64383pt x 123.94981pt.
+
+<D3t20aSD4Rh.png, id=83, 335.00156pt x 270.25969pt>
+File: D3t20aSD4Rh.png Graphic file (type png)
+ <use D3t20aSD4Rh.png>
+Package pdftex.def Info: D3t20aSD4Rh.png used on input line 488.
+(pdftex.def)             Requested size: 153.64383pt x 123.94981pt.
+
+<D3t20aHindex.png, id=84, 335.00156pt x 270.25969pt>
+File: D3t20aHindex.png Graphic file (type png)
+ <use D3t20aHindex.png>
+Package pdftex.def Info: D3t20aHindex.png used on input line 489.
+(pdftex.def)             Requested size: 153.64383pt x 123.94981pt.
+
+<D3t20aSC4Rh.png, id=85, 335.00156pt x 270.25969pt>
+File: D3t20aSC4Rh.png Graphic file (type png)
+ <use D3t20aSC4Rh.png>
+Package pdftex.def Info: D3t20aSC4Rh.png used on input line 490.
+(pdftex.def)             Requested size: 153.64383pt x 123.94981pt.
+
+Underfull \vbox (badness 6842) has occurred while \output is active []
+
+ [14 <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D
+3t20cNPC.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/Hungary
+Journal/D3t20cSD4R.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnh
+Vu/HungaryJournal/D3t20cSC4R.png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dro
+pbox/LeAnhVu/HungaryJournal/D3t20cHindex.png>] [15 <F:/vohoanghai2/Dropbox-voho
+anghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D3t20aNPCh.png> <F:/vohoanghai2/Dr
+opbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D3t20aSD4Rh.png> <F:/voh
+oanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D3t20aHindex.
+png> <F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/LeAnhVu/HungaryJournal/D
+3t20aSC4Rh.png>]
+
+LaTeX Warning: Reference `Sect:PageRank' on page 16 undefined on input line 502
+.
+
+
+LaTeX Warning: Citation `Collins-ACL-02' on page 16 undefined on input line 506
+.
+
+
+LaTeX Warning: Citation `Vercoustre-SAC-08' on page 16 undefined on input line 
+507.
+
+
+LaTeX Warning: Citation `Cronin-JIS-01' on page 16 undefined on input line 510.
+
+
+
+LaTeX Warning: Citation `poprank' on page 16 undefined on input line 516.
+
+
+LaTeX Warning: Citation `complexrank' on page 16 undefined on input line 516.
+
+
+LaTeX Warning: Citation `poprank' on page 16 undefined on input line 517.
+
+
+LaTeX Warning: Citation `complexrank' on page 16 undefined on input line 517.
+
+[16] [17]
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ¡ in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no º in font cmbx10!
+Missing character: There is no Ã in font cmbx10!
+Missing character: There is no ³ in font cmbx10!
+
+Underfull \hbox (badness 1142) in paragraph at lines 559--562
+[]\OT1/cmr/bx/n/10 Eduardo Snchez-Burillo, Jordi Duch, Jess Gmez-Gardenes,
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 577--581
+[]\OT1/cmr/bx/n/10 Michael Collins. \OT1/cmr/m/n/10 Rank-ing al-go-rithms for n
+amed-entity ex-trac-tion:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--602
+[]\OT1/cmr/bx/n/10 Microsoft Cor-po-ra-tion. \OT1/cmr/m/n/10 Mi-crosoft Aca-dem
+ic Search.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--648
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 649--654
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 655--660
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--666
+
+ []
+
+[19]
+(F:\vohoanghai2\Dropbox-vohoanghai2-gmail\Dropbox\LeAnhVu\HungaryJournal\Rankin
+gHaiMay20.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2486 strings out of 493921
+ 33502 string characters out of 3133992
+ 89021 words of memory out of 3000000
+ 5722 multiletter control sequences out of 15000+200000
+ 15485 words of font info for 64 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 34i,11n,45p,975b,325s stack positions out of 5000i,500n,10000p,200000b,50000s
+<F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/
+svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><F:/vohoanghai2/Dropbox
+-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmbx7.p
+fb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/
+public/amsfonts/cm/cmbx8.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/
+svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><F:/vohoanghai2/Dropbox-
+vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmex10.p
+fb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/
+public/amsfonts/cm/cmitt10.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbo
+x/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><F:/vohoanghai2/Dropb
+ox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmmi5
+.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbo
+x/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><F:/vohoanghai2/Dropbo
+x-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1
+/public/amsfonts/cm/cmr5.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/
+svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmr7.pfb><F:/vohoanghai2/Dropbox-v
+ohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmo
+no/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><F:/vohoanghai2/Dropbox-voh
+oanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
+F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmo
+no/MIKTEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><F:/vohoanghai2/Dropbox-voho
+anghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmti10.pfb><
+F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/publ
+ic/amsfonts/cm/cmti8.pfb><F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmo
+no/MIKTEX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><F:/vohoanghai2/Dropbox-voh
+oanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><
+F:/vohoanghai2/Dropbox-vohoanghai2-gmail/Dropbox/svmono/MIKTEX/fonts/type1/publ
+ic/amsfonts/symbols/msam10.pfb>
+Output written on RankingHaiMay20.pdf (19 pages, 616934 bytes).
+PDF statistics:
+ 183 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
